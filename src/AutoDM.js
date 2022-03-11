@@ -29,7 +29,7 @@ const SendMessage = user => {
     }, timeout);
   }
 };
-const GenerateMessage = name => {
+const GenerateMessage = this is a test => {
   const days = [
     "Sunday",
     "Monday",
